@@ -1,5 +1,5 @@
 ## Exploring Self-Supervised Representation Learning For Low-Resource Medical Image Analysis, ICIP 2023
-**Soumitri Chattopadhyay**, Soham Ganguly*, Sreejit Chaudhury*, Sayan Nag*, Samiran Chattopadhyay, [**Exploring Self-Supervised Learning for Low-Resource Medical Image Analysis**](https://arxiv.org/abs/2303.02245), _IEEE International Conference on Image Processing_ **(ICIP)**, 2023.
+**Soumitri Chattopadhyay**, Soham Ganguly*, Sreejit Chaudhury*, Sayan Nag*, Samiran Chattopadhyay, [**Exploring Self-Supervised Learning for Low-Resource Medical Image Analysis**](https://arxiv.org/abs/2303.02245), _IEEE International Conference on Image Processing_ **(ICIP)**, 2023. **(Accepted)**
 
 (* denotes equal contribution)
 
