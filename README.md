@@ -21,7 +21,7 @@ Download, unzip and place the datasets as-is under ```./data/``` directory. The 
 
 Note: Be sure to change the default value of ```--data_root``` and ```--out_root``` in main.py and linear.py with your own paths before running!
 ### Self-supervised pre-training
-Our code supports 4 self-supervised learning methods: SimCLR, DCL, SimSiam and VICReg (refer to [paper](https://arxiv.org/abs/2303.02245) for more details). These are available as argument choices for ```--model```, along with other hyperparameters such as ```--batchsize```, ```--lrate```, ```--opti``` and  ```--epochs```. Datasets are available through the argparse token ```--dataset```, along with its color nature ```--dstype``` (RGB/grayscale). 
+Our code supports 4 self-supervised learning methods: SimCLR, DCLW, SimSiam and VICReg (refer to [paper](https://arxiv.org/abs/2303.02245) for more details). These are available as argument choices for ```--model```, along with other training hyperparameters such as ```--batchsize```, ```--lrate```, ```--opti``` and  ```--epochs```. Datasets are available through the argparse token ```--dataset```, along with its color nature ```--dstype``` (RGB/grayscale). 
 
 e.g. to train SimCLR, run the following command:
 
